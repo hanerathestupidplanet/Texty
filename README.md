@@ -30,8 +30,6 @@ Usage:
 
 Adds the values at stack[1] and stack[2] together and saves them to +/
 
-- - Does the same as + but subtracts.
-
 +- - Gets input from user and saves it to --
 
 Usage:
