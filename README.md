@@ -22,7 +22,7 @@ Pushes hi onto the stack
 
 Usage:
 
-+
++/-
 
 1
 
