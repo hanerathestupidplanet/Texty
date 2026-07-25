@@ -44,32 +44,3 @@ Gets input and prints the input
 
 Any other text will be printed normally.
 
-
-
-Example program:
-
-Addition program
-
-+- - Gets input from user
-
-// - Pushes it onto the stack
-
--- 
-
-+- -Does it again
-
-//
-
---
-
-+ - Adds the 2 numbers from the stack
-
-1 - Starts at 1 because of Lua
-
-2
-
-Answer is:
-
-+/ - Outputs the answer
-
-++ - Terminates
