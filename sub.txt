@@ -1,0 +1,13 @@
+Subtraction program
++-
+//
+--
++-
+//
+--
+-
+1
+2
+Answer is:
++/
+++
